@@ -39,6 +39,7 @@ async function fetchWords() {
 
 // Initialize the game
 async function initializeGame() {
+  let hangmanIndex = 0;   // return the index of the hangman image to zero
   const words = await fetchWords();
   const difficulty = difficultySelect.value;
   const filteredWords = words.filter((word) => word.difficulty === difficulty);
