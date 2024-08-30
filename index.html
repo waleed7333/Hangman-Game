@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hangman Game</h1>
+      <div class="game-info">
+        <p>
+          Try to guess the word by clicking on the letters. You have
+          <span id="max-lives">5</span> attempts before the man is hanged!
+        </p>
+      </div>
+      <div class="hint-container">
+        <p>Hint: <span id="hint"></span></p>
+      </div>
+      <div id="difficulty-level">
+        <label for="difficulty">Select Difficulty:</label>
+        <select id="difficulty">
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+      </div>
+      <div id="hangman-container">
+        <div id="hangman"></div>
+        <div id="lives">Lives: <span id="current-lives">5</span></div>
+      </div>
+      <div id="word-container"></div>
+      <div id="letters-container"></div>
+      <div id="end-game-modal" class="modal">
+        <div class="modal-content">
+          <span id="modal-message"></span>
+          <span id="modal-answer"></span>
+          <button id="modal-restart-button">Play Again</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

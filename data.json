@@ -1,0 +1,547 @@
+[
+    {
+        "word": "apple",
+        "difficulty": "easy",
+        "hint": "A common fruit that keeps the doctor away."
+    },
+    {
+        "word": "giraffe",
+        "difficulty": "easy",
+        "hint": "The tallest animal on Earth."
+    },
+    {
+        "word": "elephant",
+        "difficulty": "easy",
+        "hint": "A large mammal known for its trunk and tusks."
+    },
+    {
+        "word": "library",
+        "difficulty": "easy",
+        "hint": "A place full of books."
+    },
+    {
+        "word": "sunflower",
+        "difficulty": "easy",
+        "hint": "A tall plant with a large, yellow flower."
+    },
+    {
+        "word": "mountain",
+        "difficulty": "easy",
+        "hint": "A natural elevation of the Earth's surface."
+    },
+    {
+        "word": "chocolate",
+        "difficulty": "easy",
+        "hint": "A sweet treat made from cacao beans."
+    },
+    {
+        "word": "bicycle",
+        "difficulty": "easy",
+        "hint": "A two-wheeled vehicle powered by pedaling."
+    },
+    {
+        "word": "vocabulary",
+        "difficulty": "easy",
+        "hint": "The body of words used in a particular language."
+    },
+    {
+        "word": "astronomy",
+        "difficulty": "medium",
+        "hint": "The study of celestial objects and space."
+    },
+    {
+        "word": "quarantine",
+        "difficulty": "medium",
+        "hint": "Isolation to prevent the spread of disease."
+    },
+    {
+        "word": "bilingual",
+        "difficulty": "medium",
+        "hint": "Fluent in two languages."
+    },
+    {
+        "word": "oceanography",
+        "difficulty": "medium",
+        "hint": "The study of the ocean and its phenomena."
+    },
+    {
+        "word": "ecosystem",
+        "difficulty": "medium",
+        "hint": "A community of interacting organisms and their environment."
+    },
+    {
+        "word": "metaphor",
+        "difficulty": "medium",
+        "hint": "A figure of speech comparing two things."
+    },
+    {
+        "word": "pyramid",
+        "difficulty": "medium",
+        "hint": "A three-dimensional shape with a polygonal base."
+    },
+    {
+        "word": "genetics",
+        "difficulty": "medium",
+        "hint": "The study of heredity and variation in organisms."
+    },
+    {
+        "word": "horizon",
+        "difficulty": "medium",
+        "hint": "The line where the earth's surface and the sky appear to meet."
+    },
+    {
+        "word": "civilization",
+        "difficulty": "medium",
+        "hint": "The stage of human social development and organization."
+    },
+    {
+        "word": "serenity",
+        "difficulty": "medium",
+        "hint": "The state of being calm, peaceful, and untroubled."
+    },
+    {
+        "word": "meticulous",
+        "difficulty": "medium",
+        "hint": "Showing great attention to detail; very careful and precise."
+    },
+    {
+        "word": "cognition",
+        "difficulty": "medium",
+        "hint": "The mental action or process of acquiring knowledge and understanding."
+    },
+    {
+        "word": "paradigm",
+        "difficulty": "medium",
+        "hint": "A typical example or pattern of something."
+    },
+    {
+        "word": "effervescent",
+        "difficulty": "medium",
+        "hint": "Bubbling with high spirits; vivacious."
+    },
+    {
+        "word": "serendipity",
+        "difficulty": "medium",
+        "hint": "The occurrence of events by chance in a happy or beneficial way."
+    },
+    {
+        "word": "innovative",
+        "difficulty": "medium",
+        "hint": "Featuring new methods; advanced and original."
+    },
+    {
+        "word": "resurgence",
+        "difficulty": "medium",
+        "hint": "An increase or revival after a period of little activity."
+    },
+    {
+        "word": "symbiotic",
+        "difficulty": "medium",
+        "hint": "Involving interaction between two different organisms."
+    },
+    {
+        "word": "anomaly",
+        "difficulty": "hard",
+        "hint": "Something that deviates from what is standard, normal, or expected."
+    },
+    {
+        "word": "neuroplasticity",
+        "difficulty": "hard",
+        "hint": "The brain's ability to reorganize itself."
+    },
+    {
+        "word": "onomatopoeia",
+        "difficulty": "hard",
+        "hint": "A word that imitates the sound it represents."
+    },
+    {
+        "word": "xenophobia",
+        "difficulty": "hard",
+        "hint": "Dislike or prejudice against people from other countries."
+    },
+    {
+        "word": "serendipity",
+        "difficulty": "hard",
+        "hint": "Finding something good without looking for it."
+    },
+    {
+        "word": "synecdoche",
+        "difficulty": "hard",
+        "hint": "A figure of speech where a part represents the whole."
+    },
+    {
+        "word": "photosynthesis",
+        "difficulty": "hard",
+        "hint": "The process by which plants make their food using sunlight."
+    },
+    {
+        "word": "synthesis",
+        "difficulty": "hard",
+        "hint": "The combination of components to form a connected whole."
+    },
+    {
+        "word": "metamorphosis",
+        "difficulty": "hard",
+        "hint": "A transformation, especially in the development of insects."
+    },
+    {
+        "word": "philosophy",
+        "difficulty": "hard",
+        "hint": "The study of fundamental questions about existence and knowledge."
+    },
+    {
+        "word": "quantum",
+        "difficulty": "hard",
+        "hint": "The smallest amount of a physical quantity that can exist independently."
+    },
+    {
+        "word": "bioluminescence",
+        "difficulty": "hard",
+        "hint": "The production and emission of light by living organisms."
+    },
+    {
+        "word": "dichotomy",
+        "difficulty": "hard",
+        "hint": "A division into two contrasting parts."
+    },
+    {
+        "word": "paradox",
+        "difficulty": "hard",
+        "hint": "A statement that contradicts itself but might still be true."
+    },
+    {
+        "word": "ephemeral",
+        "difficulty": "hard",
+        "hint": "Lasting for a very short time."
+    },
+    {
+        "word": "ubiquitous",
+        "difficulty": "hard",
+        "hint": "Present, appearing, or found everywhere."
+    },
+    {
+        "word": "cacophony",
+        "difficulty": "hard",
+        "hint": "A harsh, discordant mixture of sounds."
+    },
+    {
+        "word": "kaleidoscope",
+        "difficulty": "hard",
+        "hint": "A tube with mirrors and colored glass that creates changing patterns."
+    },
+    {
+        "word": "philanthropy",
+        "difficulty": "hard",
+        "hint": "The desire to promote the welfare of others, typically through charitable donations."
+    },
+    {
+        "word": "quintessential",
+        "difficulty": "hard",
+        "hint": "Representing the most perfect or typical example of a quality or class."
+    },
+    {
+        "word": "vocabulary",
+        "difficulty": "hard",
+        "hint": "The body of words used in a particular language."
+    },
+    {
+        "word": "hologram",
+        "difficulty": "medium",
+        "hint": "A photographic representation of a three-dimensional object."
+    },
+    {
+        "word": "juxtapose",
+        "difficulty": "medium",
+        "hint": "To place two things side by side for comparison or contrast."
+    },
+    {
+        "word": "quasar",
+        "difficulty": "hard",
+        "hint": "A massive and extremely remote celestial object emitting exceptionally large amounts of energy."
+    },
+    {
+        "word": "quintessential",
+        "difficulty": "hard",
+        "hint": "The most perfect or typical example of a quality or class."
+    },
+    {
+        "word": "philanthropy",
+        "difficulty": "hard",
+        "hint": "The desire to promote the welfare of others, typically through charitable donations."
+    },
+    {
+        "word": "zenith",
+        "difficulty": "medium",
+        "hint": "The highest point reached by a celestial or other object."
+    },
+    {
+        "word": "metaphysical",
+        "difficulty": "hard",
+        "hint": "Relating to the abstract or theoretical aspects of a subject."
+    },
+    {
+        "word": "solstice",
+        "difficulty": "medium",
+        "hint": "The time of year when the sun reaches its highest or lowest point in the sky at noon."
+    },
+    {
+        "word": "serendipitous",
+        "difficulty": "medium",
+        "hint": "Occurring or discovered by chance in a happy or beneficial way."
+    },
+    {
+        "word": "rendezvous",
+        "difficulty": "medium",
+        "hint": "A meeting at an agreed time and place."
+    },
+    {
+        "word": "mythology",
+        "difficulty": "medium",
+        "hint": "A collection of myths or stories belonging to a particular religious or cultural tradition."
+    },
+    {
+        "word": "vortex",
+        "difficulty": "hard",
+        "hint": "A mass of whirling fluid or air, especially a whirlpool or whirlwind."
+    },
+    {
+        "word": "doppelganger",
+        "difficulty": "hard",
+        "hint": "A non-biologically related look-alike or double of a living person."
+    },
+    {
+        "word": "vocabulary",
+        "difficulty": "easy",
+        "hint": "The set of words known and used by a person or group."
+    },
+    {
+        "word": "kaleidoscope",
+        "difficulty": "medium",
+        "hint": "A tube with mirrors and colored glass that creates changing patterns."
+    },
+    {
+        "word": "acumen",
+        "difficulty": "medium",
+        "hint": "The ability to make good judgments and quick decisions."
+    },
+    {
+        "word": "synchronous",
+        "difficulty": "medium",
+        "hint": "Happening at the same time or in synchronization."
+    },
+    {
+        "word": "vicarious",
+        "difficulty": "medium",
+        "hint": "Experienced in the imagination through the feelings or actions of another person."
+    },
+    {
+        "word": "nostalgic",
+        "difficulty": "medium",
+        "hint": "A sentimental longing for the past."
+    },
+    {
+        "word": "juxtaposition",
+        "difficulty": "hard",
+        "hint": "The fact of two things being seen or placed close together for contrasting effect."
+    },
+    {
+        "word": "soliloquy",
+        "difficulty": "hard",
+        "hint": "An act of speaking one's thoughts aloud when by oneself or regardless of any hearers."
+    },
+    {
+        "word": "labyrinth",
+        "difficulty": "hard",
+        "hint": "A complicated irregular network of passages or paths."
+    },
+    {
+        "word": "quintessential",
+        "difficulty": "hard",
+        "hint": "The most perfect or typical example of a quality or class."
+    },
+    {
+        "word": "entropy",
+        "difficulty": "hard",
+        "hint": "A measure of disorder or randomness in a system."
+    },
+    {
+        "word": "ephemeral",
+        "difficulty": "hard",
+        "hint": "Lasting for a very short time."
+    },
+    {
+        "word": "myriad",
+        "difficulty": "medium",
+        "hint": "A countless or extremely great number."
+    },
+    {
+        "word": "reciprocity",
+        "difficulty": "medium",
+        "hint": "The practice of exchanging things with others for mutual benefit."
+    },
+    {
+        "word": "panorama",
+        "difficulty": "medium",
+        "hint": "An unbroken view of the whole region surrounding an observer."
+    },
+    {
+        "word": "eccentric",
+        "difficulty": "medium",
+        "hint": "Unconventional and slightly strange."
+    },
+    {
+        "word": "paradox",
+        "difficulty": "medium",
+        "hint": "A statement that contradicts itself but might be true."
+    },
+    {
+        "word": "succinct",
+        "difficulty": "medium",
+        "hint": "Briefly and clearly expressed."
+    },
+    {
+        "word": "melancholy",
+        "difficulty": "medium",
+        "hint": "A deep, persistent sadness."
+    },
+    {
+        "word": "allegory",
+        "difficulty": "medium",
+        "hint": "A story, poem, or picture that can be interpreted to reveal a hidden meaning."
+    },
+    {
+        "word": "vivid",
+        "difficulty": "medium",
+        "hint": "Producing powerful feelings or strong, clear images in the mind."
+    },
+    {
+        "word": "ethereal",
+        "difficulty": "hard",
+        "hint": "Extremely delicate and light in a way that seems too perfect for this world."
+    },
+    {
+        "word": "obfuscate",
+        "difficulty": "hard",
+        "hint": "To deliberately make something unclear or difficult to understand."
+    },
+    {
+        "word": "serendipity",
+        "difficulty": "hard",
+        "hint": "The occurrence of events by chance in a happy or beneficial way."
+    },
+    {
+        "word": "panacea",
+        "difficulty": "hard",
+        "hint": "A solution or remedy for all difficulties or diseases."
+    },
+    {
+        "word": "supercilious",
+        "difficulty": "hard",
+        "hint": "Behaving or looking as though one thinks one is superior to others."
+    },
+    {
+        "word": "ephemeral",
+        "difficulty": "hard",
+        "hint": "Lasting for a very short time."
+    },
+    {
+        "word": "cacophony",
+        "difficulty": "hard",
+        "hint": "A harsh, discordant mixture of sounds."
+    },
+    {
+        "word": "tenacious",
+        "difficulty": "medium",
+        "hint": "Tending to keep a firm hold of something; clinging or adhering closely."
+    },
+    {
+        "word": "idiosyncrasy",
+        "difficulty": "hard",
+        "hint": "A mode of behavior or way of thought peculiar to an individual."
+    },
+    {
+        "word": "wilderness",
+        "difficulty": "medium",
+        "hint": "An uncultivated, uninhabited, and inhospitable region."
+    },
+    {
+        "word": "idyllic",
+        "difficulty": "medium",
+        "hint": "Extremely happy, peaceful, or picturesque."
+    },
+    {
+        "word": "jacket",
+        "difficulty": "easy",
+        "hint": "A piece of clothing worn on the upper body for warmth or style."
+    },
+    {
+        "word": "dog",
+        "difficulty": "easy",
+        "hint": "A common domesticated animal known for being loyal."
+    },
+    {
+        "word": "airplane",
+        "difficulty": "easy",
+        "hint": "A vehicle designed for air travel."
+    },
+    {
+        "word": "cake",
+        "difficulty": "easy",
+        "hint": "A sweet baked dessert often eaten at celebrations."
+    },
+    {
+        "word": "keyboard",
+        "difficulty": "easy",
+        "hint": "A set of keys used for typing on a computer or piano."
+    },
+    {
+        "word": "ecosystem",
+        "difficulty": "medium",
+        "hint": "A community of interacting organisms and their environment."
+    },
+    {
+        "word": "emulate",
+        "difficulty": "medium",
+        "hint": "To match or surpass something by imitation."
+    },
+    {
+        "word": "ambiguous",
+        "difficulty": "medium",
+        "hint": "Open to more than one interpretation."
+    },
+    {
+        "word": "intricate",
+        "difficulty": "medium",
+        "hint": "Very detailed or complicated."
+    },
+    {
+        "word": "panoramic",
+        "difficulty": "medium",
+        "hint": "An unobstructed and wide view of an area."
+    },
+    {
+        "word": "nebulous",
+        "difficulty": "hard",
+        "hint": "Vague or ill-defined."
+    },
+    {
+        "word": "mellifluous",
+        "difficulty": "hard",
+        "hint": "A sound that is sweet and smooth, pleasing to hear."
+    },
+    {
+        "word": "intransigent",
+        "difficulty": "hard",
+        "hint": "Unwilling to change one's views or to agree about something."
+    },
+    {
+        "word": "somnambulist",
+        "difficulty": "hard",
+        "hint": "A person who walks in their sleep."
+    },
+    {
+        "word": "unfathomable",
+        "difficulty": "hard",
+        "hint": "Incapable of being fully explored or understood."
+    }
+]
